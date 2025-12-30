@@ -1,4 +1,5 @@
-## Hi there 👋
+![]<img width="735" height="437" alt="image" src="https://github.com/user-attachments/assets/26d03a62-c7d8-4c40-bfe2-b2a6775a16c2" />
+
 
 <!--
 **th3radzduud3/th3radzduud3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
